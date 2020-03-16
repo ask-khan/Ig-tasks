@@ -9,14 +9,23 @@
   },
   "dependencies": {
     "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "http": "0.0.0",
     "mongoose": "^5.9.3",
     "nodemon": "^2.0.2",
+    "oauth2-server": "^3.0.1",
+    "save": "^2.4.0",
+    "supertest": "^4.0.2",
+    "validator": "^12.2.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --timeout 10000"
   },
   "author": "",
   "license": "ISC"
