@@ -15,6 +15,8 @@ ng serve --o
 npm install 
 ```
 
+*** Go Into Sever Side Folder And Move To Docs folder To Check Documentation ***
+
 *** Go Into Sever Side Folder And Move To App folder ***
 
 ```
