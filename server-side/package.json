@@ -23,7 +23,9 @@
     "validator": "^12.2.0",
     "winston": "^3.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt-apidoc": "^0.11.0"
+  },
   "scripts": {
     "test": "mocha --timeout 10000"
   },
